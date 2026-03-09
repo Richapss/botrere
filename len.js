@@ -14,16 +14,16 @@ global.thumb = fs.readFileSync("./data/image/thumb.jpg")
 global.email = ''
 global.region = ''
 
-global.owner = ['6288991583829'] 
-global.nomorOwn = ['6288991583829']
-global.developer = ['6288991583829']
-global.bot = ['62895403266267']
-global.ownername = 'risa'
-global.developername = 'risa'
-global.botname = "botvers risa"
+global.owner = ['6281515890733'] 
+global.nomorOwn = ['6281515890733']
+global.developer = ['6281515890733']
+global.bot = ['6283140684793']
+global.ownername = 'rere'
+global.developername = 'rere'
+global.botname = "botvers rere"
 global.emoji = '💜'
-global.packname = "risa"
-global.author = `risa`
+global.packname = "rere"
+global.author = `rere`
 
 global.keyopenai = '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'
 global.ibeng = 'Yl4h5x9wiA'
